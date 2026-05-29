@@ -63,7 +63,7 @@ src/
 
 ## ⚙️ Como rodar
 
-1. Clone o repositório
+1. Baixe o repositorio
 2. Abra o projeto em uma IDE Java (IntelliJ, Eclipse, VS Code)
 3. Execute a classe `Batalha.java`
 
