@@ -1,16 +1,16 @@
-# ⚔️ Sistema de Batalha entre Personagens
+# Sistema de Batalha entre Personagens
 
 Projeto prático desenvolvido para consolidar os conceitos de **Programação Orientada a Objetos** em Java, com foco em **interfaces**, **herança**, **classes abstratas** e **polimorfismo**.
 
 ---
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 O sistema simula batalhas por turnos entre personagens de diferentes classes. Cada personagem possui atributos e comportamentos únicos, mas todos seguem o mesmo contrato definido pela interface `Combatente`.
 
 ---
 
-## 🧱 Estrutura do projeto
+## Estrutura do projeto
 
 ```
 src/
@@ -27,7 +27,7 @@ src/
 
 ---
 
-## 🧩 Conceitos aplicados
+## Conceitos aplicados
 
 | Conceito | Onde aparece |
 |---|---|
@@ -39,7 +39,7 @@ src/
 
 ---
 
-## 🧙 Personagens
+## Personagens
 
 ### Guerreiro
 - Atributo extra: `forca`
@@ -61,7 +61,7 @@ src/
 
 ---
 
-## ⚙️ Como rodar
+## Como rodar
 
 1. Baixe o repositorio
 2. Abra o projeto em uma IDE Java (IntelliJ, Eclipse, VS Code)
